@@ -6,5 +6,7 @@ const bot = new TelegramBot(TOKEN, { polling: true })
 
 bot.on("message", function (msg) {
     const chatId = msg.chat.id;
-    bot.sendMessage(chatId, "Salom" )
+    bot.sendMessage(chatId, "Salom, Muzaffar!" )
 })
+
+console.log("Bot ishga tushdi");
