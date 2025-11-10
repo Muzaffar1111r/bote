@@ -90,4 +90,4 @@ Siz lamborghini sotib olish uchun Muzaffarga $180,000 berdingizmi?
 
 // npm install nodemon --save-dev
 
-console.log("Bot ishga tushdi  ");
+console.log("Bot ishga tushdi  ")
